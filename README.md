@@ -7,8 +7,6 @@
 [![Apple Music](https://img.shields.io/badge/Apple_Music-F34E68?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com/my/artist/notedwin/1539958314)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=notedwin-dev.visitor-badge)
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=notedwin-dev&show_icons=true&theme=nightowl" />
-
 ## 🤓 About Me
 - 💻 I'm a student and a Full Stack Web Developer with 2 years of experience on building web applications and Discord Bot services for clients through Fiverr and Discord.
 
