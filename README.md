@@ -39,6 +39,13 @@
 ![VSC](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
+## 📝 Latest blog post on Medium
+[![latest1](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/0)](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/0)
+<!-- TEMPORARILYY COMMENTING IT OUT UNTIL I RELEASE MORE BLOG POSTS
+[![latest2](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/1)](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/1)
+[![latest3](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/2)](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/2)
+-->
+
 ## 🤝 Connect with me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-ng2404/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwin.nggggggggg/)
