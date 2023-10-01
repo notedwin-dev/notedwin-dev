@@ -1,5 +1,6 @@
 # Hi there, I'm [Edwin](https://notedwin.codes) 👋
 [![Made with love](https://img.shields.io/badge/-Made%20With%20Love-DD2476?style=flat-square&logo=github&logoColor=white)](https://github.com/notedwin-dev)
+[![ko-fi](https://img.shields.io/badge/-Support_Me_On_Ko--fi-black?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/J3J7PPGKH)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/edwin_2004)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@notedwin)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2QktWJstHjQfA3gYf4M2va)
