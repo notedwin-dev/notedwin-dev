@@ -55,5 +55,5 @@
 
 ## 📈 Most Used on GitHub
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=notedwin-dev&row=1&no-bg=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=notedwin-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=notedwin-dev&show_icons=true&layout=compact&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![GitHub stats](https://github-readme-stats-edwin15857.vercel.app/api?username=notedwin-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![Top Languages](https://github-readme-stats-edwin15857.vercel.app/api/top-langs?username=notedwin-dev&show_icons=true&layout=compact&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
