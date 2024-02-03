@@ -54,6 +54,9 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notedwin.codes@gmail.com)
 
 ## 📈 Most Used on GitHub
+
+**If the trophies doesn't load, please refresh the page.**
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=notedwin-dev&row=1&no-bg=true)
 ![GitHub stats](https://github-readme-stats-edwin15857.vercel.app/api?username=notedwin-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github)
 ![Top Languages](https://github-readme-stats-edwin15857.vercel.app/api/top-langs?username=notedwin-dev&show_icons=true&layout=compact&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
