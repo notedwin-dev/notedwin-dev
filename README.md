@@ -19,7 +19,7 @@
 
 - 💡 Building innovative solutions that make a positive impact.
 
-- 🎹 I'm also a Singer/Songwriter in disguise:)
+- 🎹 I'm also Singer/Songwriter with a YouTube verified Official Artist Channel.
 
 ## 🛠️ Technologies that I use
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
