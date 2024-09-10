@@ -13,7 +13,7 @@
 
 - 🎹 I'm also Singer/Songwriter with a YouTube verified Official Artist Channel.
 
-- 📖 I studeied **Diploma in IT with specialism in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
+- 📖 I studied **Diploma in IT with specialism in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
 
 - 👨‍💻 I am currently working as a Full Stack Web Developer Intern at [A Serious Company](https://aserious.co)
 
