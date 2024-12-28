@@ -15,7 +15,7 @@
 
 - 📖 I studied **Diploma in IT with specialism in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
 
-- 👨‍💻 I am currently working as a Full Stack Web Developer Intern at [A Serious Company](https://aserious.co)
+- 👨‍💻 I am currently working as a Full Stack Web Developer at [A Serious Company](https://aserious.co)
 
 - 🚀 I'm a passionate developer on an exciting coding journey.
 
