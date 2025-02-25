@@ -13,15 +13,13 @@
 
 - 🎹 I'm also Singer/Songwriter with a YouTube verified Official Artist Channel.
 
-- 📖 I studied **Diploma in IT with specialism in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
+- 📖 I am currently studying **Degree in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
 
-- 👨‍💻 I am currently working as a Full Stack Web Developer at [A Serious Company](https://aserious.co)
+- 👨‍💻 Former Full Stack Web Developer at [A Serious Company](https://aserious.co) involved in building a Standard ERP System, [SuDu.AI](https://sudu.ai).
 
 - 🚀 I'm a passionate developer on an exciting coding journey.
 
 - 🔭 I love exploring new technologies and coding challenges.
-
-- 💡 We're currently building a Revolutional Standard ERP System with seamless AI integrations, [SuDu.AI](https://sudu.ai).
 
 ## 🛠️ Technologies that I use
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
