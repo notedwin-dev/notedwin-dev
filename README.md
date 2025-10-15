@@ -22,22 +22,26 @@
 - 🔭 I love exploring new technologies and coding challenges.
 
 ## 🛠️ Technologies that I use
+![Docker](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=Docker&logoColor=white&labelColor=8E2DE2)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![Express](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 ![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=8E2DE2)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 ![NextJS](https://img.shields.io/badge/NextJS-grey?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=8E2DE2)
+![Vue](https://img.shields.io/badge/VueJS-grey?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=8E2DE2)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=8E2DE2)
+![Express](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
+![Prisma](https://img.shields.io/badge/Prisma-grey?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=8E2DE2)
+![PostgresQL](https://img.shields.io/badge/PostgresQL-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=8E2DE2)
+![ThreeJS](https://img.shields.io/badge/ThreeJS-grey?style=for-the-badge&logo=three.js&logoColor=white&labelColor=8E2DE2)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![VSC](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![MarkDown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
 ## 📝 Latest blog post on Medium
 [![latest1](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/0)](https://github-readme-medium-recent-article.vercel.app/medium/@notedwin/0)
@@ -49,7 +53,6 @@
 ## 🤝 Connect with me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-ng2404/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwin.nggggggggg/)
-[![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_Edwin_Ng_)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/235721297244585984)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notedwin.codes@gmail.com)
 
