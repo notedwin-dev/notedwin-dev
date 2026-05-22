@@ -15,7 +15,9 @@
 
 - 📖 I am currently studying **Degree in Software Engineering at [Asia Pacific University of Technology and Innovation](https://new.apu.edu.my/)**.
 
-- 👨‍💻 Former Full Stack Web Developer at [A Serious Company](https://aserious.co) involved in building a Standard ERP System, [SuDu.AI](https://sudu.ai).
+- 👨‍💻 Former Full Stack Web Developer at [A Serious Company](https://sudu.ai) involved in building a Standard ERP System, [SuDu.AI](https://sudu.ai).
+
+- Former Backend Developer Intern at [Versa Asia](https://versa.com.my). Involved in internal service maintenance, optimization and improvements.
 
 - 🚀 I'm a passionate developer on an exciting coding journey.
 
